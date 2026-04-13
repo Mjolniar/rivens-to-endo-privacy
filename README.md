@@ -1,5 +1,3 @@
-# rivens-to-endo-privacy
-Private policy for my Rivens to Endo app.
 # Privacy Policy — Rivens to Endo
 
 Effective Date: April 12, 2026
